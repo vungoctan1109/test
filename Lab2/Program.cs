@@ -1,12 +1,9 @@
-﻿using System;
-
-namespace Lab1
+﻿namespace Lab2
 {
     internal class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Lab1");
         }
     }
 }

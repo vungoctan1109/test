@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{5705C38E-D63A-432A-A7AE-835F9402ECC3}</ProjectGuid>
+        <ProjectGuid>{33426FF5-D2A5-4A12-9A04-9A42C2C41CCF}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Lab1</RootNamespace>
-        <AssemblyName>Lab1</AssemblyName>
+        <RootNamespace>Lab2</RootNamespace>
+        <AssemblyName>Lab2</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
